@@ -45,4 +45,8 @@ AtliQ Hardwares was struggling to make data-driven decisions due to reliance on 
 ## Screenshots ##
 
 ### 🔹 Landing Page
-User-empathetic entry point with clean navigation for all business units.
+User-empathetic entry point with clean navigation for all business units. [https://github.com/ZoyaAysha/Business-Insights-360/blob/main/Landing%20Page.jpg](url)
+
+### 🔹 Data Model
+Efficiently structured with 10+ related tables ensuring optimal performance and clarity. 
+
