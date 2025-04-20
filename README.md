@@ -37,3 +37,12 @@ AtliQ Hardwares was struggling to make data-driven decisions due to reliance on 
 ---
 
 ## 📈 Metrics Tracked
+
+- 📦 **Finance**: Net Sales, Net Profit, Gross Margin
+- 🚚 **Supply Chain**: Forecast Accuracy %, Net Error, ABS Error.
+- 💰 ** Executive ** : Net Sales, GM %, Net Profit %, Forecast Accuracy. 
+
+## Screenshots ##
+
+### 🔹 Landing Page
+User-empathetic entry point with clean navigation for all business units.
