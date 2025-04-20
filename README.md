@@ -48,5 +48,13 @@ AtliQ Hardwares was struggling to make data-driven decisions due to reliance on 
 User-empathetic entry point with clean navigation for all business units. [https://github.com/ZoyaAysha/Business-Insights-360/blob/main/Landing%20Page.jpg](url)
 
 ### 🔹 Data Model
-Efficiently structured with 10+ related tables ensuring optimal performance and clarity. 
+Efficiently structured with 10+ related tables ensuring optimal performance and clarity. [https://github.com/ZoyaAysha/Business-Insights-360/blob/main/DATA%20Model.jpg](url)
+
+## 💬 What I Learned
+
+- Advanced data modeling strategies
+- DAX optimization techniques
+- How to design dashboards for **different stakeholder personas**
+
+- Linkedin Post:  [https://www.linkedin.com/posts/ayshaahmed1991_business-insights-360-activity-7296746105487179777-QElv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2FdCoBLzEqcM03G7zseP3OVwuaEv4_ahg](url)
 
