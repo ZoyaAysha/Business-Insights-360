@@ -42,7 +42,7 @@ AtliQ Hardwares is a consumer electronics company expanding rapidly and was stru
 
 - 📦 **Finance**: Net Sales, Net Profit, Gross Margin
 - 🚚 **Supply Chain**: Forecast Accuracy %, Net Error, ABS Error.
-- 💰 **Executive **: Net Sales, GM %, Net Profit %, Forecast Accuracy. 
+- 💰 **Executive**: Net Sales, GM %, Net Profit %, Forecast Accuracy. 
 
 ## Screenshots ##
 
