@@ -4,7 +4,9 @@ Welcome to the **Business Insights 360** project — a comprehensive Power BI da
 
 ## 🚀 Project Overview
 
-AtliQ Hardwares was struggling to make data-driven decisions due to reliance on traditional Excel reports. This project was created to bridge that gap by delivering an **advanced analytics solution** via Power BI. The goal was to create a **single, interactive, and insightful dashboard** tailored for cross-functional stakeholders.
+Project Short Info: 
+
+AtliQ Hardwares is a consumer electronics company expanding rapidly and was struggling to make data-driven decisions due to reliance on traditional Excel reports. This project was created to bridge that gap by delivering an **advanced analytics solution** via Power BI. The goal was to create a **single, interactive, and insightful dashboard** tailored for cross-functional stakeholders.
 
 ## 🎯 Key Goals
 
@@ -52,9 +54,15 @@ Efficiently structured with 10+ related tables ensuring optimal performance and 
 
 ## 💬 What I Learned
 
-- Advanced data modeling strategies
-- DAX optimization techniques
-- How to design dashboards for **different stakeholder personas**
-
+- Power Query (Basic and Advanced Operations)
+- Basic and Complex DAX formulas.
+- Data Modelling Involving 10+ tables.
+- Choosing right visuals and formatting.
+- Dashboard design principles.
+- Using bookmarks.
+- Deploying in power BI service
+- Stakeholder feedback Implementation.
+- Sales, Marketing, Finance and supply chain metrics.
+  
 - Linkedin Post:  [https://www.linkedin.com/posts/ayshaahmed1991_business-insights-360-activity-7296746105487179777-QElv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2FdCoBLzEqcM03G7zseP3OVwuaEv4_ahg](url)
 
